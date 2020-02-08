@@ -18,7 +18,9 @@
 
 
 def remove_adjacent(nums):
-    """Your code goes here.  Edit this docstring."""
+    adj_num = nums[1]
+    for num in nums:
+        print(num)
     return
 
 
